@@ -1,26 +1,51 @@
-👋 Hi there! I'm Hussein Naeem.
+# 👋 Hi, I'm Hussein Naeem
 
-💻 Backend Developer by day, Cybersecurity Enthusiast by night. I'm passionate about discovering vulnerabilities and securing systems.
+I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 5+ years of experience building real-world systems using **Django**, **Django Rest Framework**, **React**, and **PostgreSQL**. I'm currently focused on:
 
-🔒 Interests:
+- Building **OctopusDash** – a powerful, modular Django admin dashboard
+- Launching a complete **Django course** based on real project architecture
+- Creating an **Arabic AI study assistant** for students in Iraq using GPT technology
 
-    Penetration Testing
-    Ethical Hacking
-    Web Application Security
-    Network Security
-    Social Engineering
+---
 
-🌟 Goals:
+## 🛠 Tech Stack
+- **Languages**: Python, JavaScript, HTML, SCSS, Bash
+- **Frameworks**: Django, DRF, Django Channels, React
+- **Database**: PostgreSQL, SQLite
+- **Tools**: Celery, Redis, Docker, Git, GitHub Actions
+- **Others**: Chart.js, TailwindCSS (optional), GSAP, AI APIs
 
-    Become a certified cybersecurity professional
-    Contribute to open-source security projects
-    Stay updated with the latest threats and mitigations
+---
 
-📚 Learning:
+## 🔥 Featured Projects
 
-    Continuously exploring new tools and techniques
-    Practicing in CTFs and labs
+### 🚀 [OctopusDash](https://github.com/husseinnaeemsec/octopus-dash)
+> A customizable, modular admin dashboard for Django apps  
+- Widget system with dynamic data fetching  
+- Role-based access, background job viewer, logs, and app management  
+- Built with Django, TailwindCSS, Chart.js  
 
-Let's connect and build a more secure world together! 🚀
+### 🧠 Arabic AI Study Assistant *(Coming Soon)*  
+> GPT-based tutoring tool trained on Iraqi curriculum  
+- Telegram-first launch  
+- Designed for accessibility in low-resource areas  
 
-instagram : https://instagram.com/husseinnaeemeng
+---
+
+## 🎯 Goals for 2025
+- ✅ Launch OctopusDash publicly
+- 🏗 Release full Django backend course (real-world systems)
+- 🧪 Beta launch AI assistant for Iraqi students
+- 📈 Grow developer audience on YouTube & Twitter
+
+---
+
+## 📫 Connect with Me
+- 🌐 [Portfolio / GitHub](https://github.com/husseinnaeemsec)
+- 💼 [LinkedIn](https://www.linkedin.com/in/husseinnaeem/)
+- 📬 Email: husseinnaeemsec@gmail.com
+
+---
+
+> "Code with purpose. Teach with impact."
+
