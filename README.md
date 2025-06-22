@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hussein Naeem
 
-I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 5+ years of experience building real-world systems using **Django**, **Django Rest Framework**, **React**, and **PostgreSQL**. I'm currently focused on:
+I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of experience building real-world systems using **Django**, **Django Rest Framework**, **React**, and **PostgreSQL**. I'm currently focused on:
 
 - Building **OctopusDash** – a powerful, modular Django admin dashboard
 - Launching a complete **Django course** based on real project architecture
