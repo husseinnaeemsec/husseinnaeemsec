@@ -13,7 +13,7 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 5+ years of exper
 - **Frameworks**: Django, DRF, Django Channels, React
 - **Database**: PostgreSQL, SQLite
 - **Tools**: Celery, Redis, Docker, Git, GitHub Actions
-- **Others**: Chart.js, TailwindCSS (optional), GSAP, AI APIs
+- **Others**: Chart.js, TailwindCSS , GSAP, AI APIs
 
 ---
 
