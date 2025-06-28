@@ -19,7 +19,7 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of exper
 
 ## 🔥 Featured Projects
 
-### 🚀 [OctopusDash](https://github.com/husseinnaeemsec/octopus-dash)
+### 🚀 [OctopusDash](https://github.com/husseinnaeemsec/octopusdash)
 > A customizable, modular admin dashboard for Django apps  
 - Widget system with dynamic data fetching  
 - Role-based access, background job viewer, logs, and app management  
