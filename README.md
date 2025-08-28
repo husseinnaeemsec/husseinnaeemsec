@@ -4,7 +4,7 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of exper
 
 - Building **OctopusDash** – a powerful, modular Django admin dashboard
 - Launching a complete **Django course** based on real project architecture
-- Creating an **Arabic AI study assistant** for students in Iraq using GPT technology
+- **Naqraa Platform**  free online learning platform for Iraqi students
 
 ---
 
@@ -25,27 +25,16 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of exper
 - Role-based access, background job viewer, logs, and app management  
 - Built with Django, TailwindCSS, Chart.js  
 
-### 🧠 Arabic AI Study Assistant *(Coming Soon)*  
-> GPT-based tutoring tool trained on Iraqi curriculum  
-- Telegram-first launch  
-- Designed for accessibility in low-resource areas  
 
----
-
-## 🎯 Goals for 2025
-- ✅ Launch OctopusDash publicly
-- 🏗 Release full Django backend course (real-world systems)
-- 🧪 Beta launch AI assistant for Iraqi students
-- 📈 Grow developer audience on YouTube & Twitter
 
 ---
 
 ## 📫 Connect with Me
-- 🌐 [Portfolio / GitHub](https://github.com/husseinnaeemsec)
-- 💼 [LinkedIn](https://www.linkedin.com/in/husseinnaeem/)
-- 📬 Email: husseinnaeemsec@gmail.com
+-  [Portfolio / GitHub](https://github.com/husseinnaeemsec)
+-  [LinkedIn](https://www.linkedin.com/in/husseinnaeem/)
+-  Email: husseinnaeemsec@gmail.com
 
 ---
 
-> "Code with purpose. Teach with impact."
+
 
