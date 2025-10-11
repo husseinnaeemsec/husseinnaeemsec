@@ -8,7 +8,7 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of exper
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Languages**: Python, JavaScript, HTML, SCSS, Bash
 - **Frameworks**: Django, DRF, Django Channels, React
 - **Database**: PostgreSQL, SQLite
@@ -17,9 +17,9 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of exper
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🚀 [OctopusDash](https://github.com/husseinnaeemsec/octopusdash)
+###  [OctopusDash](https://github.com/husseinnaeemsec/octopusdash)
 > A customizable, modular admin dashboard for Django apps  
 - Widget system with dynamic data fetching  
 - Role-based access, background job viewer, logs, and app management  
@@ -29,7 +29,7 @@ I'm a passionate **Backend Developer** from Iraq 🇮🇶 with 2+ years of exper
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 -  [Portfolio / GitHub](https://github.com/husseinnaeemsec)
 -  [LinkedIn](https://www.linkedin.com/in/husseinnaeem/)
 -  Email: husseinnaeemsec@gmail.com
